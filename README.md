@@ -1,2 +1,3 @@
 # luaLaTeX_Samples
-Some samples for LuaLaTeX
+
+My repository of LuaLaTeX-Samples.
